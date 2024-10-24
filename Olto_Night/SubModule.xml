@@ -1,0 +1,15 @@
+﻿<Module>
+  <Name value="Olto Night" />
+  <Id value="Olto_Night" />
+  <Version value="v1.0.0" />
+  <SingleplayerModule value="true" />
+  <MultiplayerModule value="false" />
+	<SubModules>
+		<SubModule>
+			<Name value="Olto_Night"/>
+			<DLLName value="Olto_Night.dll"/>
+			<SubModuleClassType value="Olto_Night.Olto_Night_SubModule"/>
+			<Tags/>
+		</SubModule>
+	</SubModules>
+</Module>

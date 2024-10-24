@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+	<Night_Disguise>0.3f</Night_Disguise>	<!-- vanila disguise = 0.3 + 0.003 * Roguery - 0.005f * Garrison - 0.00015f * Renown; mod +0.3f (extra 30% at night) -->
+	<Renown_Disguise>0.00001f</Renown_Disguise>	<!-- vanila 0.00015f -->
+</Settings>
